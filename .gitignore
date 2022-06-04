@@ -1,0 +1,11 @@
+#folders
+.idea
+target
+test
+
+#files by type
+.gitignore
+
+*.html
+*.json
+*.txt
